@@ -1,0 +1,4 @@
+HTTP/1.1 302 Found
+Location: http://www.example.com/newpage
+Set-Cookie: userid=1; Max-Age=3600; HttpOnly
+Content-Length: 0
