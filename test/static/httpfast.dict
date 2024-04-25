@@ -1,0 +1,3 @@
+response="HTTP/1.1 204 No Content\nContent-Length: 0"
+query="&name19=value19"
+request="GET /#section HTTP/1.1"
