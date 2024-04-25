@@ -1,0 +1,1 @@
+GET /search?q=query HTTP/1.1

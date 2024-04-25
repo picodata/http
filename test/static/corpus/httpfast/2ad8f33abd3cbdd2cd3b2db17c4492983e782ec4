@@ -1,0 +1,6 @@
+HTTP/1.1 206 Partial Content
+Content-Type: video/mp4
+Content-Range: bytes 21010-47021/47022
+Content-Length: 26012
+
+[binary data]

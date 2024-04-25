@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Set-Cookie: sessionid=abc123; HttpOnly
+Set-Cookie: theme=light
+Content-Type: text/html
+Content-Length: 12
+
+Hello world!

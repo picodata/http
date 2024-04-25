@@ -1,0 +1,7 @@
+Here is some regular text.
+% This is a line code.
+Normal text continues.
+%< Multiline code starts.
+Continues over
+several lines.
+%> Now back to normal text.
